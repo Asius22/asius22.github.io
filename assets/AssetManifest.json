@@ -4,7 +4,7 @@
   "assets/panuozzi/Instagram-300x300.png": [
     "assets/panuozzi/Instagram-300x300.png"
   ],
-  "assets/panuozzi/baby_porchetta.jpg": ["/panuozzi/baby_porchetta.jpg"],
+  "assets/panuozzi/baby_porchetta.jpg": ["assets/assets/panuozzi/baby_porchetta.jpg"],
   "assets/panuozzi/casa.jpg": ["assets/panuozzi/casa.jpg"],
   "assets/panuozzi/milla_fresco.jpg": ["assets/panuozzi/milla_fresco.jpg"],
   "assets/pizze/bosco.jpg": ["assets/pizze/bosco.jpg"],
