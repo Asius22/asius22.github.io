@@ -1,7 +1,7 @@
 {
   "name": "Pizzeria il Tris",
   "short_name": "Pizzeria il Tris",
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#00FFFFFF",
   "theme_color": "#FFFFFF",
