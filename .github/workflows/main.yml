@@ -1,0 +1,11 @@
+name: Piizeria Il Tris
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    name: Pizzeria il tris
+    env:
+      my_secret: ${{secrets.commit_secret}}
+    runs-on: ubuntu-latest
